@@ -6,6 +6,6 @@ The indicator supports all sorts of alerts. It is also capable of displaying hig
 
 ![Donchian Ultimate with support and resistance zones](https://github.com/EarnForex/Donchian-Ultimate/blob/main/README_Images/donchian-ultimate-channel-support-resistance.png)
 
-More information about this custom MetaTrader/cTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Donchian-Ultimate/
+More information about this custom MetaTrader/cTrader indicator is available here: https://www.earnforex.com/indicators/Donchian-Ultimate/
 
 Any contributions to the code are welcome!
